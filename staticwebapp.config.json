@@ -1,10 +1,4 @@
 {
-  "routes": [
-    {
-      "route": "/custom404.html",
-      "statusCode": 404
-    }
-  ],
   "navigationFallback": {
     "rewrite": "/index.html"
   }
