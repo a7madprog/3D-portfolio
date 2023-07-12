@@ -121,19 +121,18 @@ const experiences = [
     iconBg: "#000",
     date: "May 2023 - Present",
     points: [
-      "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.\n",
-
       "Creating a comprehensive training pathway on GitHub.",
+      "Creating a workspace for club members and giving ease of accessibility to them.",
+      "Arranging meetings to strengthen communication among members.",
+      "Connecting workspace, management & communication software's efficiently and effectively.",
+      "Distributing tasks such as making KPIs on google sheets.",
       "Developing and implementing best practices",
-      "Providing mentorship and guidance.\n",
-
-      "I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
-
+      "Providing mentorship and guidance.",
       "Building the base of the cyber security club with a mind map.",
       "Arranging meetings to build communication and relationship between the club members.",
       "Choosing the right students to join our cyber security club and make a difference.",
-      "Assisting club members by explaining , guiding and giving a clear accommodation about their responsibilities.",
-      "Creating a GitHub & LinkedIn page for the club and building communication with the LinkedIn community so they can get to know our club and share their feedback.",
+      "Assisting club members by explaining and giving clear responsibilities.",
+      "Establishing the club’s presence on GitHub and LinkedIn to engage the community.",
     ],
   },
 
@@ -144,8 +143,6 @@ const experiences = [
     iconBg: "#FFF",
     date: "Mar 2023 - Present",
     points: [
-      "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.\n",
-
       "Communication with children and delivering information efficiently.",
       "Develop their creativity, problem solving and guide them to a bright future.",
       "Creating presentations that can help them better understand why learning is important in a entertaining way.",
