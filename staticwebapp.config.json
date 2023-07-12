@@ -1,5 +1,7 @@
 {
-  "navigationFallback": {
-    "rewrite": "/custom404.html"
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/custom404.html"
+    }
   }
 }
